@@ -5,10 +5,10 @@ public int walkDogs(int hour) {
     //if the maxDogs exceeds num of dogs available
     
     if(maxDogs>=numDogs) {
-        updateDogs(hour, numDogs);
+        company.updateDogs(hour, numDogs);
         return numDogs;
     } else {
-        updateDogs(hour, maxDogs);
+        company.updateDogs(hour, maxDogs);
         return maxDogs;
     }
 }
