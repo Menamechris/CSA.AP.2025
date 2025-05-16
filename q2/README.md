@@ -10,7 +10,6 @@ This section contains my analysis of Question 2 (Class Design):
 - I put all of first method in the Constructer becuase it was simplier.
   
 #### Key concepts tested in this question:
-- Ideas here
+- To be able to check if something is in a string and to munipulate a string to a certain format.
   
-#### What I learned from revisiting this problem:
-- Ideas here
+
